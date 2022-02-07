@@ -1,5 +1,5 @@
 #!/bin/sh
-chmod 777 scanners.sh
+chmod 777 ruda4d.sh
 
 show_menu(){
     
